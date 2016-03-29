@@ -41,7 +41,7 @@ node-modules.
 By far the easiest approach is to use a recent version of
 [**VSCode**](https://code.visualstudio.com/); simply opening the **teleport-test**
 folder in VSCode will set you up with a fully functional development environment
-(including finline linting support backed by ESLint/Babel).
+(including inline linting support backed by ESLint/Babel).
 
 If you prefer another editor, use the following command to test your modifications:
 
